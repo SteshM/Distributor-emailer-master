@@ -1,0 +1,4 @@
+com\example\service\RestExchanger.class
+com\example\dto\MailDto.class
+com\example\mail\EmailSenderApplication.class
+com\example\service\Controller.class
